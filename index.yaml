@@ -31,6 +31,6 @@ entries:
     - https://github.com/bitnami/containers/tree/main/bitnami/external-dns
     - https://github.com/kubernetes-sigs/external-dns
     urls:
-    - https://github.com/nightmareze1/charts/blob/master/charts/external-dns-0.0.1.tgz
+    - https://raw.githubusercontent.com/nightmareze1/charts/master/charts/external-dns-0.0.1.tgz
     version: 0.0.1
 generated: "2023-01-24T22:54:13.012733+01:00"
